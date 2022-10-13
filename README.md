@@ -1,5 +1,5 @@
 # KillYourShapes -- TO TEST OUT, SELECT A VERSION AND DOWNLOAD THE .zip
-
+This a third-person shooter roguelike where you play as different 3D shapes with their own abilities and collect items and more abilities.
 -------------------------------------------------------------------------------------------------------------
 for v 0.25-- luck, critical hit, invisibility, and turret work now. added audio clips for hit reg. added scaling over time, so player and enemy damage and hp scale up over time.
 
