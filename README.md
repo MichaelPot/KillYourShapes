@@ -1,5 +1,9 @@
-# KillYourShapes -- TO TEST OUT, SELECT A VERSION AND DOWNLOAD THE .zip
+# KillYourShapes -- TO TEST OUT, SELECT A VERSION FROM EITHER MAC OR WINDOWS AND DOWNLOAD THE .zip
 This is a third-person shooter roguelike where you play as different 3D shapes with their own abilities and collect items and more abilities.
+-------------------------------------------------------------------------------------------------------------
+for v 0.3-- the juiced up version of move speed does not work, every other item and juiced up version works. There are 2 levels now, each ending in a boss. Items/enemies/characters need to be balanced more.
+
+Known bugs: enemies spawn in terrain, jumping doesn't seem to work when going down a slope
 -------------------------------------------------------------------------------------------------------------
 for v 0.25-- luck, critical hit, invisibility, and turret work now. added audio clips for hit reg. added scaling over time, so player and enemy damage and hp scale up over time.
 
