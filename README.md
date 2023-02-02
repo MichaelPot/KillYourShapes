@@ -1,4 +1,4 @@
-# KillYourShapes -- TO TEST OUT, SELECT A VERSION FROM EITHER MAC OR WINDOWS AND DOWNLOAD THE .zip MOST RECENT VERSION IS v 0.3
+# KillYourShapes -- TO TEST OUT, SELECT A VERSION FROM EITHER MAC OR WINDOWS AND DOWNLOAD THE .zip MOST RECENT VERSION IS v 0.35
 This is a third-person shooter roguelike where you play as different 3D shapes with their own abilities and collect items and more abilities.
 -------------------------------------------------------------------------------------------------------------
 for v 0.3-- the juiced up version of move speed does not work, every other item and juiced up version works. There are 2 levels now, each ending in a boss. Items/enemies/characters need to be balanced more.
